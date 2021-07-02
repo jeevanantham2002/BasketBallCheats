@@ -8,7 +8,7 @@ import time
 from centroidtracker import CentroidTracker
 
 path = 'haarcascades/haarcascade_frontalface_default.xml'  # PATH OF THE CASCADE
-cameraNo = 1                       # CAMERA NUMBER
+cameraNo = 0                       # CAMERA NUMBER
 objectName = 'Face'       # OBJECT NAME TO DISPLAY
 frameWidth= 1920                     # DISPLAY WIDTH
 frameHeight = 1080                  # DISPLAY HEIGHT
